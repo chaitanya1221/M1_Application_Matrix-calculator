@@ -1,5 +1,7 @@
 # M1_Application_Matrix-calculator
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b5268ced80324df58f27c042cb5d0a00)](https://app.codacy.com/gh/chaitanya1221/M1_Application_Matrix-calculator?utm_source=github.com&utm_medium=referral&utm_content=chaitanya1221/M1_Application_Matrix-calculator&utm_campaign=Badge_Grade_Settings)
+
 
 
 
