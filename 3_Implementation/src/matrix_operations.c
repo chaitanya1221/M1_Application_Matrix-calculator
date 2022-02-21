@@ -1,11 +1,11 @@
 /**
  * @file matrix_operations.c
- * @author kodali vidyasri (kodalividyasri@gmail.com)
+ * @author kodali vidyasri (chaitanyaumasaiteja2001@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-09-05
+ * @date 2022-02-10
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include "matrix_operations.h"
