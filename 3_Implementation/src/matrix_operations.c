@@ -1,6 +1,6 @@
 /**
  * @file matrix_operations.c
- * @author kodali vidyasri (chaitanyaumasaiteja2001@gmail.com)
+ * @author karri chaitanya uma sai teja (chaitanyaumasaiteja2001@gmail.com)
  * @brief 
  * @version 0.1
  * @date 2022-02-10
