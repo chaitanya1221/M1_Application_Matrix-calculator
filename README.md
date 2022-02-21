@@ -1,9 +1,10 @@
 # M1_Application_Matrix-calculator
 
 
+![CODE QUALITY ](https://api.codiga.io/project/31398/score/svg)
 
 
-
+![CODE QUALITY ](https://api.codiga.io/project/31398/status/svg)
 
 
 
