@@ -1,9 +1,9 @@
 /**
  * @file matrix_operations.h
- * @author kodali Vidyasri (kodalividyasri@gmail.com)
+ * @author Karri Chaitanya Uma Sai Teja(chaitanyaumasaiteja2001@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2021-09-05
+ * @date 2022-02-02
  * 
  * @copyright Copyright (c) 2021
  * 
